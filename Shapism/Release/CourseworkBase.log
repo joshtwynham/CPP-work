@@ -1,0 +1,39 @@
+﻿Build started 16/01/2016 15:33:22.
+     1>Project "C:\Users\Josh\Desktop\Shapism\src\CourseworkBase.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\SDL\include /ZI /nologo /W1 /WX- /Od /Oy- /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Josh\Desktop\Shapism\/Release\\" /Fd"C:\Users\Josh\Desktop\Shapism\/Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt mainfunction.cpp
+         mainfunction.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Josh\Desktop\Shapism\/Release\CourseworkBase.exe" /NOLOGO /LIBPATH:..\SDL\libx86 SDL2.lib SDL2main.lib SDL2_image.lib SDL2_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libcmt.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Josh\Desktop\Shapism\/Release\CourseworkBase.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE:NO /IMPLIB:"C:\Users\Josh\Desktop\Shapism\/Release\CourseworkBase.lib" /MACHINE:X86 /SAFESEH C:\Users\Josh\Desktop\Shapism\/Release\Jxt03uBullet.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\DemoAMain.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\DemoBObject.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\Jxt03uEnemy.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\Jxt03uMain.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\Jxt03uPlayer.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\Jxt03uTileManager.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\mainfunction.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\BaseEngine.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\DisplayableObject.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\FontManager.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\JPGImage.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\SimpleDemo.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\TileManager.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\BouncingBall.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\BouncingBallMain.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\Demo1Main.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\Demo2Main.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\Demo2Object.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\Demo2TileManager.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\Demo3Main.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\Demo3Object.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\Demo3ObjectFinished.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\Demo3TileManager.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\Demo4Main.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\Demo4Object.obj
+         C:\Users\Josh\Desktop\Shapism\/Release\Demo4TileManager.obj
+         CourseworkBase.vcxproj -> C:\Users\Josh\Desktop\Shapism\/Release\CourseworkBase.exe
+     1>Done Building Project "C:\Users\Josh\Desktop\Shapism\src\CourseworkBase.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.29
