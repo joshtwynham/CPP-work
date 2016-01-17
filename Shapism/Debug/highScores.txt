@@ -1,0 +1,2 @@
+Most_enemies_killed: 3
+Longest_time_survived: 5 seconds
